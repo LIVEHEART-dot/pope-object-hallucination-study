@@ -1,0 +1,11 @@
+.venv/
+cache/
+lmms-eval/
+outputs/
+__pycache__/
+second_round/tasks/
+second_round/metadata_*.json
+.env*
+*.log
+*.zip
+*.pem
